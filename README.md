@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Scraper + Flask App
 
 ## 🔧 How to Build
